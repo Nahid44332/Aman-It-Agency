@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body{
+    background-color:#5F9EA0 ;
+}
+.container {
+    width: 650px;
+    height:650px;
+    background-color: white;
+    margin: auto;
+    margin-top: 110px;
+    border-radius: 20px;
+}
+.title {
+    margin-left: 250px;
+    margin-bottom: 30px;
+    font-size: 40px;
+    color: chocolate;
+    padding-top: 30px;
+}
+.input {
+    margin-left: 50px;
+    margin-right: -20px;
+    padding-right: 70px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+.input-1
+{
+    margin-left: 50px;
+    margin-right: -20px;
+    padding-right: 130px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.input-2
+{margin-left: 50px;
+    margin-right: -20px;
+    padding-right: 90px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.input-3
+{
+margin-left: 50px;
+margin-right: -20px;
+padding-right: 370px;
+padding-left: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-bottom: 20px;
+}
+.input-4
+{
+    margin-left:80px;
+    font-size: 60px;
+}
+.ptag{
+    margin-left: 100px;
+    margin-top: -20px;
+}
+.btn{
+    margin-left:255px;
+    padding-left:35px;
+    padding-right: 35PX;
+    padding-top: 15PX;
+    padding-bottom:15PX;
+    margin-top: 20PX;
+    background-color: #B8860B;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.rag{
+    margin-left: 185px;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.ss{
+    color: black;
+}
